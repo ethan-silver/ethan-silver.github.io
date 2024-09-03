@@ -1,4 +1,4 @@
-I'm a first year PhD student in the Dept. of Physics at Harvard. My primary research interests are in observational and computational cosmology and astrophysics. I’m especially interested in research involving strong gravitational lensing, dark matter halos, galaxy formation, and supernovae, as well as applying machine learning techniques to cosmology and astrophysics.
+I'm a second year PhD student in the Dept. of Physics at Harvard. My primary research interests are in observational and computational cosmology and astrophysics. I’m especially interested in research involving gravitational wave astronomy, gravitational lensing, galaxy formation, and supernovae, as well as applying machine learning techniques to cosmology and astrophysics. I am currently working on research training neural networks to detect and classify gravitational wave signals.
 
 <!-- ## Welcome to GitHub Pages
 
